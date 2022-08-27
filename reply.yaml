@@ -1,0 +1,17 @@
+SimpleReply:
+
+  help:
+    Plain: 请查看 https://bot-manual.restent.win/
+
+  manual:
+    Image: 
+      path: ./images/rtfm.png
+    Plain: \n请仔细阅读 LittleSkin 用户使用手册，特别是「常见问题解答」！\nhttps://manual.littlesk.in/
+
+  log.minecraft:
+    Plain: 请使用启动器的「测试游戏」功能启动游戏，并在复现问题后导出日志发送至群内。如果问题与外置登录有关，请在启动器的「JVM 参数（Java 虚拟机参数）」设置中填入 -Dauthlibinjector.debug
+
+  log.launcher:
+    Plain: 请在启动器中复现你的问题，然后导出启动器日志发送至群内
+  
+  
